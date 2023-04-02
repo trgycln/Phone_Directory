@@ -1,0 +1,25 @@
+Telefon Rehber Uygulaması 
+
+1.	Dependencies:
+	a.	json-server - Fake Api için,
+	b.	axios, APİ iletişimi için,
+	c.	React-Router-Dom, sayfalama yapısı için,
+	d.	Bootstrap 
+
+2.	İşleyiş
+	a.	Bootstrap dahil et.
+	b.	json-server db.json ve port ayarlaması yap,
+	c.	React-Router-Dom sayfa yapısını yaz.	
+	d.	Header componenti hazırla.
+	e.	Tümünü Listele (Anasayfa)
+	f.	Yeni kayıt Ekle (AddPage).
+	g.	Edit sayfası (EditPage)
+	g.	Arama butonu
+	
+
+3.	Uygulamanın Kuralları
+	a.	Anasayfa - tüm Liste yayınlanacak, bootstrap table yapısı
+	b.	Contact ekleme Sayfası
+		 -	Anasayfadan header üzerindeki sekme vasıtasıyla gidilecek. 
+		 -	Ekleme yapılınca anasayfaya dönülecek.
+	c.	Sil (X) ve Güncelle (Kalem) işlemleri için DURUM kısmı,

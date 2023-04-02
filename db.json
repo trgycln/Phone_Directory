@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "1680465069074",
+      "name": "Ahmet Yılmaz",
+      "phoneNumber": "50674258560"
+    },
+    {
+      "id": "1680465106219",
+      "name": "Mustafa Yılmaz",
+      "phoneNumber": "05569589650"
+    },
+    {
+      "id": "1680465220565",
+      "name": "Ali Veli",
+      "phoneNumber": "05067469890"
+    }
+  ]
+}
